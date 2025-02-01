@@ -6,10 +6,10 @@ import {CgFileDocument} from "react-icons/cg";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     Resume_Maker:"A resume maker project is a web application that allows users to create, customize, and download professional resumes by selecting templates, entering personal information, and arranging content in a user-friendly interface.",
-   Resume_MakerGithub :"https://github.com/faiz1004/Resume-Maker",
+   Resume_MakerGithub :"https://github.com/sahilkhan0711/Resume-Builder",
 
     To_Do_App : "A to-do app project is a web or mobile application that enables users to create, manage, and organize tasks or to-do lists, allowing them to track their progress and set reminders for completion.",
-    To_Do_AppGithub : "https://github.com/faiz1004/To-Do-App",
+    To_Do_AppGithub : "https://github.com/sahilkhan0711/TODO-App",
     
    
   }
